@@ -1,0 +1,1 @@
+The file "HW7_CoppeliaSim_File.ttt" can be executed in CoppeliaSim. In this simulation, two PioneerP3DX robots follow a path using the D* algorithm. The generated trajectories ensure that the robots exchange their initial positions without any collisions.
